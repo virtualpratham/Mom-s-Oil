@@ -4,8 +4,8 @@
 
   var WHATSAPP_NUMBER = "918887935854"; // international format, no + or spaces
   var UPI_ID = "momsnatural@nyes";
-  var PRICE = 459;
-  var MRP = 849;
+  var PRICE = 359;
+  var MRP = 749;
   var PRODUCT = "Mom's Oils — Home Made Hair Oil (100ml)";
 
   /* ---------- Scroll reveals ---------- */
